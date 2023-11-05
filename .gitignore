@@ -1,3 +1,9 @@
+# Daniel's Additions
+lpthw/videos/*
+lpthw/bash_cheat_sheet.pdf
+lpthw/book1.pdf
+lpthw/book2.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
