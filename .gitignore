@@ -4,7 +4,7 @@ lpthw/bash_cheat_sheet.pdf
 lpthw/book1.pdf
 lpthw/book2.pdf
 
-*.DS_Store # Macbook specific
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
