@@ -5,6 +5,7 @@ lpthw/book1.pdf
 lpthw/book2.pdf
 
 .DS_Store
+.vscode
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
