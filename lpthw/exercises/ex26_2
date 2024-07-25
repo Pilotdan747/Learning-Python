@@ -1,0 +1,3 @@
+import ex_26
+
+print(ex_26.height) # Looks like reload is just a jupiter notebook thing?
